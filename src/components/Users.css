@@ -1,0 +1,12 @@
+.main {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+.user {
+  padding: 10px;
+  text-align: center;
+}
+.user img {
+  width: 300px;
+  height: 300px;
+}
